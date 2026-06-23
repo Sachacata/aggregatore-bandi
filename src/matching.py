@@ -73,13 +73,17 @@ class Bando:
     titolo_it: str = ""                                # traduzione IT (per i bandi UE)
 
     def aperto(self, oggi: dt.date) -> bool:
+        # "Disponibile" = non scaduto. Mostriamo anche i bandi IN ARRIVO
+        # (apertura futura): sono opportunità per cui prepararsi per tempo.
         if self.stato.lower() == "scaduto":
             return False
         if self.data_scadenza and self.data_scadenza < oggi:
             return False
-        if self.data_apertura and self.data_apertura > oggi:
-            return False
         return True
+
+    def in_arrivo(self, oggi: dt.date) -> bool:
+        """True se il bando non è ancora aperto (apertura futura)."""
+        return bool(self.data_apertura and self.data_apertura > oggi)
 
     def giorni_alla_scadenza(self, oggi: dt.date) -> int | None:
         if not self.data_scadenza:

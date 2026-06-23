@@ -191,6 +191,8 @@ else:
                 st.caption(f"{b.ente} · {b.tipo_agevolazione.replace('_', ' ')} · "
                            f"{b.ambito} · dotazione {euro(b.dotazione)}")
                 st.markdown((":red[" if urgente else "") + scad + ("]" if urgente else ""))
+                if b.in_arrivo(oggi):
+                    st.markdown(f":orange[🔜 In arrivo — apre il {b.data_apertura}]")
                 st.markdown("**Perché per te:** " + " · ".join(m.motivi))
                 if b.url:
                     st.markdown(f"[Vai al bando]({b.url})")
