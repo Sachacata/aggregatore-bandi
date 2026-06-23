@@ -1,0 +1,23 @@
+id,titolo,ente,fonte,tipo_agevolazione,beneficiari,settore,ambito,dimensione,obiettivo,dotazione,data_apertura,data_scadenza,stato,url
+B001,Horizon Europe - Cluster Digitale,Commissione UE,UE,fondo_perduto,impresa;startup;terzo_settore,ICT,UE,tutte,ricerca_sviluppo,95000000,2026-02-01,2026-09-15,aperto,https://ec.europa.eu/horizon/b001
+B002,EIC Accelerator - Startup deep tech,Commissione UE,UE,fondo_perduto;finanziamento_agevolato,startup;impresa,tutti,UE,micro;piccola,ricerca_sviluppo;startup,120000000,2026-01-10,2026-10-03,aperto,https://eic.ec.europa.eu/b002
+B003,Creative Europe - Settore culturale,Commissione UE,UE,fondo_perduto,terzo_settore;impresa,cultura,UE,tutte,internazionalizzazione,40000000,2026-03-01,2026-07-15,aperto,https://ec.europa.eu/creative/b003
+B004,Erasmus for Young Entrepreneurs,Commissione UE,UE,fondo_perduto,startup;partita_iva,tutti,UE,micro,internazionalizzazione;formazione,8000000,2026-01-01,2026-11-30,aperto,https://ec.europa.eu/eye/b004
+B005,Voucher Digitalizzazione 2026,MIMIT,Stato,fondo_perduto,impresa;partita_iva;libero_professionista,tutti,nazionale,micro;piccola;media,digitalizzazione,50000000,2026-03-01,2026-07-31,aperto,https://www.incentivi.gov.it/it/b005
+B006,Nuova Sabatini Macchinari,MIMIT,Stato,finanziamento_agevolato,impresa,manifatturiero,nazionale,micro;piccola;media,macchinari,500000000,2025-06-01,2026-12-31,aperto,https://www.incentivi.gov.it/it/b006
+B007,Industria 5.0 - Credito d'imposta,MIMIT,Stato,credito_imposta,impresa,manifatturiero,nazionale,tutte,macchinari;efficienza_energetica,6300000000,2024-01-01,2026-12-31,aperto,https://www.incentivi.gov.it/it/b007
+B008,Resto al Sud,Invitalia,Stato,fondo_perduto,impresa;partita_iva,tutti,Campania,micro;piccola,startup,1200000000,2025-01-01,2026-12-31,aperto,https://www.incentivi.gov.it/it/b008
+B009,ISI INAIL - Sicurezza sul lavoro,INAIL,Stato,fondo_perduto,impresa,tutti,nazionale,tutte,sicurezza,500000000,2026-04-01,2026-08-30,aperto,https://www.inail.it/b009
+B010,Fondo Impresa Femminile,Invitalia,Stato,fondo_perduto,impresa;partita_iva,tutti,nazionale,micro;piccola,startup,200000000,2026-05-01,2026-09-30,aperto,https://www.incentivi.gov.it/it/b010
+B011,Garanzia Fondo PMI,MCC,Stato,garanzia,impresa,tutti,nazionale,tutte,liquidita,1000000000,2025-01-01,2026-12-31,aperto,https://www.incentivi.gov.it/it/b011
+B012,Contratti di Sviluppo,Invitalia,Stato,finanziamento_agevolato,impresa,manifatturiero,nazionale,grande,macchinari;ricerca_sviluppo,2000000000,2025-01-01,2026-12-31,aperto,https://www.incentivi.gov.it/it/b012
+B013,Bonus Formazione Liberi Professionisti,Fondo Nuove Competenze,Stato,fondo_perduto,partita_iva;libero_professionista;freelance,tutti,nazionale,tutte,formazione,30000000,2026-04-15,2026-07-20,aperto,https://www.incentivi.gov.it/it/b013
+B014,Voucher Internazionalizzazione,SIMEST,Stato,finanziamento_agevolato,impresa;partita_iva,tutti,nazionale,micro;piccola;media,internazionalizzazione,200000000,2026-01-15,2026-10-15,aperto,https://www.incentivi.gov.it/it/b014
+B015,Bando Terzo Settore - Inclusione sociale,Ministero del Lavoro,Stato,fondo_perduto,terzo_settore,sociale,nazionale,tutte,inclusione,80000000,2026-05-01,2026-08-15,aperto,https://www.lavoro.gov.it/b015
+B016,Turismo Veneto - Strutture ricettive,Regione Veneto,Regione,fondo_perduto,impresa,turismo,Veneto,micro;piccola,riqualificazione,12000000,2026-05-15,2026-09-30,aperto,https://bandi.regione.veneto.it/b016
+B017,PSR Veneto - Giovani agricoltori,Regione Veneto,Regione,fondo_perduto,impresa;partita_iva,agricoltura,Veneto,micro;piccola,startup,8000000,2026-04-01,2026-06-30,aperto,https://bandi.regione.veneto.it/b017
+B018,Artigianato Veneto,Regione Veneto,Regione,fondo_perduto,impresa,artigianato,Veneto,micro,macchinari;formazione,5000000,2026-06-10,2026-07-10,aperto,https://bandi.regione.veneto.it/b018
+B019,Commercio di Prossimità Veneto,Regione Veneto,Regione,fondo_perduto,impresa,commercio,Veneto,micro,riqualificazione,4000000,2026-05-20,2026-07-05,aperto,https://bandi.regione.veneto.it/b019
+B020,Innovazione Lombardia,Regione Lombardia,Regione,fondo_perduto,impresa;startup,ICT,Lombardia,micro;piccola;media,ricerca_sviluppo,15000000,2026-05-01,2026-08-31,aperto,https://www.regione.lombardia.it/b020
+B021,Efficienza Energetica Emilia-Romagna,Regione Emilia-Romagna,Regione,fondo_perduto,impresa,tutti,Emilia-Romagna,piccola;media,efficienza_energetica,20000000,2026-02-01,2026-05-31,scaduto,https://www.regione.emilia-romagna.it/b021
+B022,Voucher Digitale Camera di Commercio,CCIAA Vicenza,CCIAA,fondo_perduto,impresa;partita_iva,tutti,Veneto,micro;piccola,digitalizzazione,2000000,2026-06-01,2026-07-25,aperto,https://www.vi.camcom.it/b022

@@ -1,0 +1,13 @@
+# Cache e ambienti
+__pycache__/
+*.pyc
+.venv/
+
+# File generati a runtime / locali (NON servono nel repo)
+data/incentivi_opendata.json   # file Solr scaricato (grande, si rigenera)
+data/aggiorna.log
+data/eventi.jsonl
+
+# NB: questi INVECE vanno committati (servono all'app online):
+#   data/bandi_reali.csv  data/bandi_ue.csv
+#   data/visti_bandi.json data/nuovi_bandi.json
