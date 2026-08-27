@@ -1,1 +1,370 @@
-[]
+[
+  {
+    "id": "UECREA-CULT-2025-COOP-UA-1",
+    "titolo": "Supporting Ukrainian artists and cultural organisations to co-create/showcase"
+  },
+  {
+    "id": "UEEDF-EDIP-P-2026-2027-FNLC-SA-SEAP",
+    "titolo": "Support for the functioning of SEAPs, including  for the purpose of establishing, managing and maintaining defence industrial readiness pools"
+  },
+  {
+    "id": "UEHORIZON-WIDERA-2025-04-ACCESS-01",
+    "titolo": "Support for R&I policy making in the EU enlargement countries"
+  },
+  {
+    "id": "UEHORIZON-CL5-2027-04-Two-Stage-D5-09",
+    "titolo": "Noise reduction breakthroughs for new ultraefficient aircraft"
+  },
+  {
+    "id": "UEHORIZON-CL5-2027-04-Two-Stage-D2-07",
+    "titolo": "Novel approaches towards next-generation battery concepts, leveraging the enabling role of innovative advanced materials (BATT4EU and IAM4EU Partnerships)"
+  },
+  {
+    "id": "UEHORIZON-CL2-2027-02-TRANSFO-09-two-stage",
+    "titolo": "Improving socio-economic outcomes for persons with dementia and informal caregivers"
+  },
+  {
+    "id": "UEHORIZON-CL2-2027-02-DEMOCRACY-09-two-stage",
+    "titolo": "Open topic on reinvigorating and shielding European democracy"
+  },
+  {
+    "id": "UEHORIZON-CL2-2027-02-HERITAGE-09-two-stage",
+    "titolo": "Open topic: Impact-driven research on realising the full potential of cultural heritage, arts and cultural and creative industries"
+  },
+  {
+    "id": "UEHORIZON-CL2-2027-01-DEMOCRACY-06",
+    "titolo": "Identifying user-focused solutions to support news media freedom"
+  },
+  {
+    "id": "UEHORIZON-CL2-2027-01-DEMOCRACY-08",
+    "titolo": "Global Human Rights and EU values"
+  },
+  {
+    "id": "UEHORIZON-CL2-2027-01-DEMOCRACY-02",
+    "titolo": "Women’s, LGBTIQ and minority rights in a context of autocracy, conflict and geopolitical shifts"
+  },
+  {
+    "id": "UEHORIZON-CL2-2027-01-TRANSFO-05",
+    "titolo": "The effective use of artificial intelligence in learning environments in pre-primary and primary education"
+  },
+  {
+    "id": "UEHORIZON-CL2-2027-01-TRANSFO-06",
+    "titolo": "Closing the learning gap: uncovering causes and effective policy interventions for declining youth skills in mathematics, reading, and science"
+  },
+  {
+    "id": "UEHORIZON-CL2-2027-01-HERITAGE-01",
+    "titolo": "Towards a consolidated culture and creativity driven European innovation ecosystem"
+  },
+  {
+    "id": "UEHORIZON-CL2-2027-01-TRANSFO-03",
+    "titolo": "Rethinking sustainable competitiveness beyond traditional perspectives: role and contribution of the Social Economy"
+  },
+  {
+    "id": "UEHORIZON-CL2-2027-01-HERITAGE-06",
+    "titolo": "Future-proofing sustainable cultural tourism"
+  },
+  {
+    "id": "UEHORIZON-CL2-2027-01-DEMOCRACY-04",
+    "titolo": "Addressing the impact of artificial intelligence, cyberviolence, and deepfakes on equality, democracy and inclusive societies"
+  },
+  {
+    "id": "UEHORIZON-CL2-2027-01-HERITAGE-05",
+    "titolo": "Re-imagining the creative economy: the interplay between the cultural and creative sectors and industries and the social economy"
+  },
+  {
+    "id": "UEHORIZON-CL2-2027-01-TRANSFO-02",
+    "titolo": "Impact of in-kind benefits on income distribution and on vulnerable populations"
+  },
+  {
+    "id": "UEHORIZON-CL2-2027-01-HERITAGE-02",
+    "titolo": "AI4Creatives Support Platform: embracing a fair AI revolution"
+  },
+  {
+    "id": "UEHORIZON-CL2-2027-01-HERITAGE-03",
+    "titolo": "Crafting routes to a circular economy"
+  },
+  {
+    "id": "UEHORIZON-CL2-2027-01-HERITAGE-04",
+    "titolo": "Culture, heritage and creative industries for health and well-being"
+  },
+  {
+    "id": "UEHORIZON-CL2-2027-01-DEMOCRACY-01",
+    "titolo": "Advisory support and network for countering and preventing radicalisation, extremism, hate speech and polarisation"
+  },
+  {
+    "id": "UEHORIZON-CL2-2027-01-TRANSFO-08",
+    "titolo": "Scaling and deploying innovations in migration management"
+  },
+  {
+    "id": "UEHORIZON-CL6-2027-02-FARM2FORK-08",
+    "titolo": "AI-powered foodome characterization"
+  },
+  {
+    "id": "UEHORIZON-CL6-2027-02-FARM2FORK-01",
+    "titolo": "Increasing the resilience of agriculture in water and nutrient-scarce environments through digital innovations"
+  },
+  {
+    "id": "UEHORIZON-CL6-2027-02-CLIMATE-02",
+    "titolo": "Strengthening evidence-based policies for the resilience of European agriculture and forestry and related supply chains against crises and systemic risks"
+  },
+  {
+    "id": "UEHORIZON-CL6-2027-02-CLIMATE-03",
+    "titolo": "Carbon farming innovation and scale-up"
+  },
+  {
+    "id": "UEHORIZON-CL6-2027-02-CLIMATE-04",
+    "titolo": "Unlocking a safe operating space for Antarctica and the Southern Ocean"
+  },
+  {
+    "id": "UEHORIZON-CL6-2027-02-CLIMATE-01",
+    "titolo": "Governance, sustainable development and international politics of a future ice-free Arctic"
+  },
+  {
+    "id": "UEHORIZON-CL6-2027-02-FARM2FORK-06",
+    "titolo": "Unleashing the potential of sustainable small-scale aquatic food production and recreational fisheries for prosperous local communities"
+  },
+  {
+    "id": "UEHORIZON-CL2-2027-01-TRANSFO-04",
+    "titolo": "The impact of EU labour mobility on the Member States of the EU"
+  },
+  {
+    "id": "UEHORIZON-CL2-2027-01-HERITAGE-07",
+    "titolo": "Societal impact of cultural heritage"
+  },
+  {
+    "id": "UEHORIZON-CL2-2027-01-DEMOCRACY-03",
+    "titolo": "Student and family engagement for developing a culture of democratic/civic participation"
+  },
+  {
+    "id": "UEHORIZON-CL2-2027-01-TRANSFO-01",
+    "titolo": "Impact of access to nature-positive environments in promoting social cohesion and reducing inequalities in urban and peri-urban settings"
+  },
+  {
+    "id": "UEHORIZON-CL6-2027-02-FARM2FORK-02",
+    "titolo": "Increasing mitigation of GHG emissions and feed efficiency through feed additives"
+  },
+  {
+    "id": "UEHORIZON-CL6-2027-02-FARM2FORK-05",
+    "titolo": "Enhancing farmer's profitability and resilience through innovations for diversified crops and value chains"
+  },
+  {
+    "id": "UEHORIZON-CL6-2027-02-FARM2FORK-07",
+    "titolo": "Towards commercialization of food systems microbiome solutions"
+  },
+  {
+    "id": "UEHORIZON-CL6-2027-02-FARM2FORK-04",
+    "titolo": "Improving understanding of the contribution of the organic farming sector to sustainability"
+  },
+  {
+    "id": "UEHORIZON-CL6-2027-02-FARM2FORK-03",
+    "titolo": "Microbiome for terrestrial livestock sustainability and health within a One Health approach"
+  },
+  {
+    "id": "UEHORIZON-CL6-2027-02-COMMUNITIES-02",
+    "titolo": "Empowering local urban food systems entrepreneurship and innovation"
+  },
+  {
+    "id": "UEHORIZON-CL2-2027-01-DEMOCRACY-05",
+    "titolo": "Development aid and democratic governance"
+  },
+  {
+    "id": "UEHORIZON-CL2-2027-01-DEMOCRACY-07",
+    "titolo": "The role of private companies in democracy"
+  },
+  {
+    "id": "UEHORIZON-CL5-2027-06-D6-12",
+    "titolo": "Support for dissemination events in the field of Transport Research"
+  },
+  {
+    "id": "UEHORIZON-CL5-2027-06-D6-08",
+    "titolo": "Enhancing Mobility for All: affordable, reliable, and accessible multimodal transport for inclusive rural and urban connectivity – Societal Readiness pilot"
+  },
+  {
+    "id": "UEHORIZON-CL5-2027-06-D6-05",
+    "titolo": "European CCAM knowledge hub and tools for safe and scalable deployment (CCAM Partnership)"
+  },
+  {
+    "id": "UEHORIZON-CL5-2027-06-D6-04",
+    "titolo": "Holistic solutions for CCAM integration in critical scenarios (CCAM Partnership)"
+  },
+  {
+    "id": "UEHORIZON-CL5-2027-06-D6-11",
+    "titolo": "Enhancing Resilience and Accuracy in Positioning, Navigation, and Timing (PNT) Systems and e-conspicuity solutions"
+  },
+  {
+    "id": "UEHORIZON-MISS-2027-04-CIT-CCRI-04",
+    "titolo": "Advancing circular logistics solutions in cities"
+  },
+  {
+    "id": "UEHORIZON-MISS-2027-04-CIT-05",
+    "titolo": "Boosting the transformation towards climate-neutral cities, the net-zero economy and open strategic autonomy through Pre-Commercial Procurement (PCP)"
+  },
+  {
+    "id": "UEHORIZON-MISS-2027-04-CIT-03",
+    "titolo": "Inclusive and climate resilient multimodal passenger hubs enhancing modal shift towards sustainable transport and shared mobility"
+  },
+  {
+    "id": "UEHORIZON-MISS-2027-04-CIT-02",
+    "titolo": "Hydrogen cities"
+  },
+  {
+    "id": "UEHORIZON-MISS-2027-04-CIT-01",
+    "titolo": "Innovative microgrids for improved energy system integration and efficiency in urban contexts"
+  },
+  {
+    "id": "UEHORIZON-CL3-2027-01-BM-03",
+    "titolo": "Detection and characterisation of threats or illegal/ smuggled goods in cargo"
+  },
+  {
+    "id": "UEHORIZON-CL3-2027-01-BM-01",
+    "titolo": "Open topic on research and innovation for effective management of EU external borders that promotes fundamental rights and EU values"
+  },
+  {
+    "id": "UEHORIZON-CL3-2027-01-FCT-01",
+    "titolo": "Online harms detection and investigation tools using a short development cycle model"
+  },
+  {
+    "id": "UEHORIZON-CL3-2027-01-FCT-04",
+    "titolo": "Open topic on increasing security of citizens against terrorism, including in public spaces"
+  },
+  {
+    "id": "UEHORIZON-CL3-2027-01-DRS-02",
+    "titolo": "Societal resilience, engagement of the younger generations and digital innovation for disaster resilience"
+  },
+  {
+    "id": "UEHORIZON-CL3-2027-01-DRS-03",
+    "titolo": "Enhancing decision support system for disaster crises: leveraging emerging technologies for improved civil preparedness and crisis management"
+  },
+  {
+    "id": "UEHORIZON-CL3-2027-01-SSRI-03",
+    "titolo": "Demand-led innovation in security"
+  },
+  {
+    "id": "UEHORIZON-CL3-2027-01-INFRA-01",
+    "titolo": "Enhancing physical protection of critical infrastructures"
+  },
+  {
+    "id": "UEHORIZON-CL3-2027-01-FCT-05",
+    "titolo": "Effective and evidence-based responses to the increased availability and use of synthetic drugs and stimulants in Europe"
+  },
+  {
+    "id": "UEHORIZON-CL3-2027-01-BM-02",
+    "titolo": "Trusted, secure, quality future digital travel credentials"
+  },
+  {
+    "id": "UEHORIZON-CL3-2027-01-DRS-01",
+    "titolo": "Open Topic on advanced protective gear optimized for CBRN-E (Chemical, Biological, Radiological, Nuclear, Explosives) environments and new generation of smart protective equipment for disaster responders"
+  },
+  {
+    "id": "UEHORIZON-CL3-2027-01-SSRI-02",
+    "titolo": "Open grounds for future pre-commercial procurement of innovative security technologies"
+  },
+  {
+    "id": "UEHORIZON-CL3-2027-01-FCT-02",
+    "titolo": "Community policing in diverse societies in Europe"
+  },
+  {
+    "id": "UEHORIZON-CL3-2027-01-INFRA-02",
+    "titolo": "Impact of malicious use of Open-Source Intelligence on critical infrastructure business continuity"
+  },
+  {
+    "id": "UEHORIZON-CL3-2027-01-SSRI-01",
+    "titolo": "Accelerating uptake through open proposals for advanced SME innovation"
+  },
+  {
+    "id": "UEHORIZON-CL3-2027-01-DRS-04",
+    "titolo": "Enhancing preparedness for large-scale cross-border disasters"
+  },
+  {
+    "id": "UEHORIZON-CL3-2027-01-FCT-03",
+    "titolo": "Open topic on enhanced prevention, detection and deterrence of societal issues related to various forms of crime"
+  },
+  {
+    "id": "UEHORIZON-EURATOM-2027-02-01",
+    "titolo": "Key enabling technologies for fusion power plants (European Partnership on Fusion Energy)"
+  },
+  {
+    "id": "UEHORIZON-WIDERA-2027-01-WIDENING-01",
+    "titolo": "EIC Pre-accelerator - Widening"
+  },
+  {
+    "id": "UEHORIZON-MSCA-2027-DN-01-01",
+    "titolo": "MSCA Doctoral Networks 2027"
+  },
+  {
+    "id": "UEHORIZON-CL5-2027-07-D3-16",
+    "titolo": "Industrial processes and equipment for innovative, reliable and scalable tandem technologies (EUPI-PV Partnership)"
+  },
+  {
+    "id": "UEHORIZON-CL5-2027-07-D3-27",
+    "titolo": "Integrated Approaches for Retrofitting Infrastructures with Innovative Energy Storage Technologies"
+  },
+  {
+    "id": "UEHORIZON-CL5-2027-07-D3-11",
+    "titolo": "Demonstration of hydropower technologies for efficient and forward-looking refurbishment of existing hydropower plants"
+  },
+  {
+    "id": "UEHORIZON-CL5-2027-07-D3-25",
+    "titolo": "Advanced TSO control rooms to enhance grid observability, stability and resilience"
+  },
+  {
+    "id": "UEHORIZON-CL5-2027-07-D3-28",
+    "titolo": "Community of practice - Data-Driven Decision-Making in Energy"
+  },
+  {
+    "id": "UEHORIZON-CL5-2027-07-D3-17",
+    "titolo": "PV based electrification of the economy: Designing & optimising PV systems supporting industrial electrification and promoting participation in electricity markets (EUPI-PV Partnership)"
+  },
+  {
+    "id": "UEHORIZON-CL5-2027-07-D3-26",
+    "titolo": "Advanced Distribution Management Systems (ADSM) for more efficient and flexible distribution grids"
+  },
+  {
+    "id": "UEHORIZON-CL5-2027-07-D3-32",
+    "titolo": "Delivery of industrial CCUS clusters – Societal Readiness pilot"
+  },
+  {
+    "id": "UEHORIZON-NEB-2027-01-PARTICIPATION-03",
+    "titolo": "Novel combinations of knowledge and research methods to address social issues and advance a fair green transition of neighbourhoods"
+  },
+  {
+    "id": "UEHORIZON-NEB-2027-01-BUSINESS-03",
+    "titolo": "Anticipating the long-term future of neighbourhoods in line with the New European Bauhaus"
+  },
+  {
+    "id": "UEHORIZON-NEB-2027-01-REGEN-01",
+    "titolo": "Combining conventional and innovative construction materials, products and techniques for sustainable and beautiful buildings"
+  },
+  {
+    "id": "UEHORIZON-NEB-2027-01-REGEN-03",
+    "titolo": "Revitalising neighbourhoods around existing railway and motorway corridors"
+  },
+  {
+    "id": "UEHORIZON-NEB-2027-01-PARTICIPATION-02",
+    "titolo": "Intergenerational neighbourhoods and communities aligned with the New European Bauhaus"
+  },
+  {
+    "id": "UEHORIZON-NEB-2027-01-PARTICIPATION-01",
+    "titolo": "The transformative potential of co-governance in the green transition of neighbourhoods"
+  },
+  {
+    "id": "UEHORIZON-NEB-2027-01-BUSINESS-02",
+    "titolo": "Innovative models for collective community investment and ownership"
+  },
+  {
+    "id": "UEHORIZON-NEB-2027-01-REGEN-02",
+    "titolo": "Sustainable, beautiful and healthy construction and renovation sites"
+  },
+  {
+    "id": "UEHORIZON-NEB-2027-01-BUSINESS-01",
+    "titolo": "Mass customisation of offsite manufactured modular construction components to transform the existing built environment"
+  },
+  {
+    "id": "UECERV-2024-CITIZENS-VALUES",
+    "titolo": "Call for proposals for civil society organisations active on protecting and promoting Union values: call to intermediaries (giving financial support to third parties)"
+  },
+  {
+    "id": "UEDIGITAL-2025-BESTUSE-08-FACTCHECKERS",
+    "titolo": "European Network of Factcheckers"
+  }
+]
